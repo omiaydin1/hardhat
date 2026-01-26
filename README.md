@@ -1,5 +1,6 @@
 ![](https://raw.githubusercontent.com/NomicFoundation/hardhat/main/img/hardhat-header.png)
 
+
 Hardhat is an Ethereum development environment for professionals. It facilitates performing frequent tasks, such as running tests, automatically checking code for mistakes or interacting with smart contracts.
 
 Built by the [Nomic Foundation](https://nomic.foundation/) for the Ethereum community.
